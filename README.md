@@ -32,10 +32,6 @@
 
 ###
 
-<h2 align="left">Tools Used :</h2>
-
-
-
 <h2>Deployed URL :</h2>
 
 ###
