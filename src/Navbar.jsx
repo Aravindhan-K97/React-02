@@ -68,7 +68,7 @@ function Navbar({cartValue}) {
           <form className="d-flex">
             <button className="btn btn-outline-dark" href="#!" type="submit">
               <img
-                src="Image/shopping-cart.svg"
+                src="src/assets/Image/shopping-cart.svg"
                 className="card-img-left"
                 alt="Product"
               />
