@@ -42,10 +42,10 @@ function Navbar({cartValue}) {
               >
                 Shop
               </a>
-              <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
+              <div className="dropdown-menu" aria-labelledby="navbarDropdownMenu">
                 <li>
                   <a className="dropdown-item" href="#!">
-                    All Products
+                    All s
                   </a>
                 </li>
                 <li>
@@ -61,7 +61,7 @@ function Navbar({cartValue}) {
                     New Arrivals
                   </a>
                 </li>
-              </ul>
+              </div>
             </li>
           </ul>
 
@@ -70,7 +70,7 @@ function Navbar({cartValue}) {
               <img
                 src="shopping-cart.svg"
                 className="card-img-left"
-                alt="Product"
+                alt=""
               />
               <i class="bi bi-cart me-1"></i>
               Cart
