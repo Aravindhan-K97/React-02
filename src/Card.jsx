@@ -8,36 +8,36 @@ function Card({ cardData, setCartValue }) {
     <div className="card m-2">
       {/* Card img */}
       {cardData.img1 && (
-        <img src="image.png" className="card-img-top" alt="image" />
+        <img src="./src/assets/images/image.png" className="card-img-top" alt="image" />
       )}
       {cardData.img2 && (
-        <img src="tomato2.png" className="card-img-top" alt="tomato2" />
+        <img src="./src/assets/images/tomato2.png" className="card-img-top" alt="tomato2" />
       )}
       {cardData.img3 && (
         <img
-          src="red-meat1.png"
+          src="./src/assets/images/red-meat1.png"
           className="card-img-top"
           alt="red-meat1"
         />
       )}
       {cardData.img4 && (
-        <img src="orange1.png" className="card-img-top" alt="orange1" />
+        <img src="./src/assets/images/orange1.png" className="card-img-top" alt="orange1" />
       )}
       {cardData.img5 && (
-        <img src="fish1.png" className="card-img-top" alt="fish1" />
+        <img src="./src/assets/images/fish.png" className="card-img-top" alt="fish1" />
       )}
       {cardData.img6 && (
         <img
-          src="pomegranate1.png"
+          src="./src/assets/images/pomegranate1.png"
           className="card-img-top"
           alt="pomegranate1"
         />
       )}
       {cardData.img7 && (
-        <img src="cabbage1.png" className="card-img-top" alt="cabbage1" />
+        <img src="./src/assets/images/cabbage.png" className="card-img-top" alt="cabbage1" />
       )}
       {cardData.img8 && (
-        <img src="grapes1.png" className="card-img-top" alt="grapes1" />
+        <img src="./src/assets/images/grapes1.png" className="card-img-top" alt="grapes1" />
       )}
       {cardData.isSale && (
         <div
