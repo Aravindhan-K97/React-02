@@ -6,6 +6,7 @@ import CardGrid from './Card'
 import Footer from './Footer'
 import "bootstrap/dist/css/bootstrap.min.css"
 
+
 function App() {
   const [cartValue, setCartValue] = useState(0);
 
