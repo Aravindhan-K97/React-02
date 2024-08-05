@@ -36,4 +36,4 @@
 
 ###
 
-🔸*Check out My Shopping Cart Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://shopping-cart-react-task-2.netlify.app/#)
+🔸*Check out My Shopping Cart Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://shopping-cart61.netlify.app/)
